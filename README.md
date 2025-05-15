@@ -21,6 +21,11 @@ Aplicativo Android desenvolvido em Kotlin que ajuda o usuário a decidir qual co
 - Paradigma orientado a objetos
 - Componentes básicos do Android (Activity, EditText, TextView,Button, etc)
 
+
+## 🎥 Demonstração em Vídeo
+
+[▶️ Clique aqui para ver o vídeo](https://github.com/user-attachments/assets/c859c761-871f-4827-a7f7-3ab3727e8497)
+
 ---
 ### 🟢 Tela Inicial
 ![Tela inicial do app](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
@@ -52,7 +57,7 @@ https://github.com/user-attachments/assets/fb48c7f7-f775-4dd7-a2e3-12ed1e63d388
 
 
 
-https://github.com/user-attachments/assets/c859c761-871f-4827-a7f7-3ab3727e8497
+
 
 
 ---

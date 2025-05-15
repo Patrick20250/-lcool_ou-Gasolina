@@ -35,15 +35,32 @@ caso contrário → Abasteça com Gasolina
 
 ## 🎯 Captura de Tela 
 
-![WhatsApp Image 2025-05-15 at 16 58 45](https://github.com/user-attachments/assets/1a7ec8da-a2e9-490d-8354-34160d71e68f)
-![WhatsApp Image 2025-05-15 at 16 58 45 (1)](https://github.com/user-attachments/assets/cf7b11ae-e886-46bd-9c89-5ea49596436f)
-![WhatsApp Image 2025-05-15 at 16 58 46](https://github.com/user-attachments/assets/3ceb7216-5bef-44e8-886a-2a0212c334ac)
-![WhatsApp Image 2025-05-15 at 16 58 46 (1)](https://github.com/user-attachments/assets/419b2e24-35d9-4d92-bb6d-8d3279ce91b7)
-![WhatsApp Image 2025-05-15 at 16 58 46 (2)](https://github.com/user-attachments/assets/7c3c3093-345e-4178-9d84-e22138738367)
-![WhatsApp Image 2025-05-15 at 16 58 46 (3)](https://github.com/user-attachments/assets/6ab05f96-d935-443b-af3d-5f1b9a78cc18)
+
+ghfhgfhg
+![WhatsApp Image 2025-05-15 at 16 58 45](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
+
+
+
+Melhor valor Álcool
+
+![WhatsApp Image 2025-05-15 at 16 58 46 (3)](https://github.com/user-attachments/assets/21ead76e-274b-4526-ac22-1f802a861e8b)
+
+
+Melhor valor Gasolina 
+![WhatsApp Image 2025-05-15 at 16 58 46 (2)](https://github.com/user-attachments/assets/885f9bcf-06ee-4b2a-99dc-0d80bbe317b5)
+
+
+
+Campo vazio do Álcool
+![WhatsApp Image 2025-05-15 at 16 58 46 (1)](https://github.com/user-attachments/assets/0b7521bd-679b-458a-a8c9-a788796f3896)
+
+Campo vazio da Gasolina
+
+![WhatsApp Image 2025-05-15 at 16 58 45](https://github.com/user-attachments/assets/c116c205-13eb-4fbf-aa43-f802b13f0cb8)
 
 
 ---
+
 
 ## 📦 Como rodar o projeto
 

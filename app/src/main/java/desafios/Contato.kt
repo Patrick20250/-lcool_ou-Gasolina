@@ -103,6 +103,6 @@ fun main() {
     do{
         opcao = menu()
         executarOpcao(opcao,contatos)
-    }while (opcao!="4")
+    }while (opcao!= "4")
 
 }

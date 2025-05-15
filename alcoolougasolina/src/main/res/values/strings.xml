@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="gasolina_ou_lcool">
+    <font color="#4CAF50">Álcool</font> ou <font color="#FF9800">Gasolina</font>
+    </string>
+    <string name="digite_o_preco_do_alcool">Digite o preco do Alcool R$ 4.30</string>
+    <string name="digite_o_preco_da_gasolina">Digite o preco da Gasolina R$ 9.00</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
+
+

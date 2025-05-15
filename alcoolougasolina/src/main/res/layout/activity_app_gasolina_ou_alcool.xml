@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <ImageView
+        android:id="@+id/imagemlogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/logo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/textoGasolinauAlcool"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="@string/gasolina_ou_lcool"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toBottomOf="@id/imagemlogo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/Input_Alcool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/digite_o_preco_do_alcool"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:layout_margin="20dp"
+        app:layout_constraintTop_toBottomOf="@id/textoGasolinauAlcool"
+        app:layout_constraintStart_toStartOf="@id/textoGasolinauAlcool"
+        app:layout_constraintEnd_toEndOf="@id/textoGasolinauAlcool"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/Input_Gasolina"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="@string/digite_o_preco_da_gasolina"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/Input_Alcool"
+        app:layout_constraintStart_toStartOf="@id/Input_Alcool"
+        app:layout_constraintEnd_toEndOf="@id/Input_Alcool"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+
+        android:id="@+id/Btn_calcular"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="@string/calcular"
+        android:textAlignment="center"
+        android:textStyle="normal"
+        android:background="@drawable/botao_personalizado"
+        android:textColor="@color/black"
+        android:layout_margin="20dp"
+        android:drawableStart="@drawable/ico_next_24"
+        android:drawablePadding="5dp"
+        app:layout_constraintStart_toStartOf="@id/Input_Gasolina"
+        app:layout_constraintEnd_toEndOf="@id/Input_Gasolina"
+        app:layout_constraintTop_toBottomOf="@id/Input_Gasolina"/>
+
+    <TextView
+        android:id="@+id/text_Resultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/resultado"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_margin="20dp"
+        app:layout_constraintTop_toBottomOf="@id/Btn_calcular"
+        app:layout_constraintStart_toStartOf="@id/Btn_calcular"
+        app:layout_constraintEnd_toEndOf="@id/Btn_calcular"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

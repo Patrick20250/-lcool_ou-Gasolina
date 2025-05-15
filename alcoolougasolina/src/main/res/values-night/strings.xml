@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gasolina_ou_lcool">Gasolina ou Álcool</string>
+    <string name="digite_o_preco_do_alcool">Digite o preco do Alcool</string>
+    <string name="digite_o_preco_da_gasolina">Digite o preco da Gasolina</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>

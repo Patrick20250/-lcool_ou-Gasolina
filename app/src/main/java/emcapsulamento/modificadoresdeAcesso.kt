@@ -7,7 +7,7 @@ package emcapsulamento
  *
  * privite -> Visivel apenas dentro da classe.
  *
- * protected -> Visivel apenas dentro da classe ouy subclasses * classes filhas
+ * protected -> Visivel apenas dentro da classe ou subclasses * classes filhas
  *
  * internal -> visivel em todo lugar dentro de um módulo
  *

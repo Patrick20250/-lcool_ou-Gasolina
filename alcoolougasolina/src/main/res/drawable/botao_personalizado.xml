@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--BTN no estado Clicado -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="true"> <!-- muda a cor ao clicar. -->
+    <shape android:shape = "rectangle">
+        <solid android:color="@color/laranja_Escuro"/>
+        <corners android:radius="16dp"/> <!-- Borda -->
+    </shape>
+</item>
+
+    <!--BTN no estado normal -->
+
+    <item>
+
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/laranja_claro"/>
+            <corners android:radius="16dp"/> <!-- Borda  -->
+        </shape>
+
+    </item>
+
+
+</selector>

@@ -42,9 +42,17 @@ Aplicativo Android desenvolvido em Kotlin que ajuda o usuário a decidir qual co
 
 ---
 
+https://github.com/user-attachments/assets/fb48c7f7-f775-4dd7-a2e3-12ed1e63d388
+
+
+
 ### ⚠️ Erro: Campo de Gasolina vazio
 ![Erro - Campo gasolina vazio](https://github.com/user-attachments/assets/c116c205-13eb-4fbf-aa43-f802b13f0cb8)
 
+
+
+
+https://github.com/user-attachments/assets/c859c761-871f-4827-a7f7-3ab3727e8497
 
 
 ---

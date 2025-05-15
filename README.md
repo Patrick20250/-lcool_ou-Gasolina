@@ -33,30 +33,31 @@ caso contrário → Abasteça com Gasolina
 
 ---
 
-## 🎯 Captura de Tela 
+## 🎯 Capturas de Tela
 
+### 🟢 Tela Inicial
+![Tela inicial do app](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
 
-ghfhgfhg
-![WhatsApp Image 2025-05-15 at 16 58 45](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
+---
 
+### ✅ Resultado: Melhor valor Álcool
+![Resultado - Álcool](https://github.com/user-attachments/assets/21ead76e-274b-4526-ac22-1f802a861e8b)
 
+---
 
-Melhor valor Álcool
+### ✅ Resultado: Melhor valor Gasolina
+![Resultado - Gasolina](https://github.com/user-attachments/assets/885f9bcf-06ee-4b2a-99dc-0d80bbe317b5)
 
-![WhatsApp Image 2025-05-15 at 16 58 46 (3)](https://github.com/user-attachments/assets/21ead76e-274b-4526-ac22-1f802a861e8b)
+---
 
+### ⚠️ Erro: Campo de Álcool vazio
+![Erro - Campo álcool vazio](https://github.com/user-attachments/assets/0b7521bd-679b-458a-a8c9-a788796f3896)
 
-Melhor valor Gasolina 
-![WhatsApp Image 2025-05-15 at 16 58 46 (2)](https://github.com/user-attachments/assets/885f9bcf-06ee-4b2a-99dc-0d80bbe317b5)
+---
 
+### ⚠️ Erro: Campo de Gasolina vazio
+![Erro - Campo gasolina vazio](https://github.com/user-attachments/assets/c116c205-13eb-4fbf-aa43-f802b13f0cb8)
 
-
-Campo vazio do Álcool
-![WhatsApp Image 2025-05-15 at 16 58 46 (1)](https://github.com/user-attachments/assets/0b7521bd-679b-458a-a8c9-a788796f3896)
-
-Campo vazio da Gasolina
-
-![WhatsApp Image 2025-05-15 at 16 58 45](https://github.com/user-attachments/assets/c116c205-13eb-4fbf-aa43-f802b13f0cb8)
 
 
 ---

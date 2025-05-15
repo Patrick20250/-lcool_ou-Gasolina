@@ -22,17 +22,6 @@ Aplicativo Android desenvolvido em Kotlin que ajuda o usuário a decidir qual co
 - Componentes básicos do Android (Activity, EditText, TextView,Button, etc)
 
 ---
-
-## 💡 Lógica do cálculo
-
-A aplicação utiliza a fórmula:
-
-se (preço do álcool / preço da gasolina) < 0.7 → Abasteça com Álcool
-caso contrário → Abasteça com Gasolina
-
-
----
-
 ### 🟢 Tela Inicial
 ![Tela inicial do app](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
 

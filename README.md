@@ -33,8 +33,6 @@ caso contrário → Abasteça com Gasolina
 
 ---
 
-## 🎯 Capturas de Tela
-
 ### 🟢 Tela Inicial
 ![Tela inicial do app](https://github.com/user-attachments/assets/c3504271-98fc-47f7-97d9-d008f268cb14)
 

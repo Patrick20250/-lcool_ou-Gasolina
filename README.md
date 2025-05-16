@@ -47,7 +47,6 @@ Aplicativo Android desenvolvido em Kotlin que ajuda o usuário a decidir qual co
 
 ---
 
-https://github.com/user-attachments/assets/fb48c7f7-f775-4dd7-a2e3-12ed1e63d388
 
 
 
